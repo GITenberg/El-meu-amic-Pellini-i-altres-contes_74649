@@ -1,0 +1,32 @@
+_repo: El-meu-amic-Pellini-i-altres-contes_74649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bertrana, Prudenci
+    aliases:
+    - Bertrana, Prudencio
+    - Compte, Prudencio Bertrana y
+    - Comte, Prudenci Bertrana i
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '7472'
+    url: http://www.gutenberg.org/2009/agents/7472
+    wikipedia: https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74649'
+language: ca
+pgterms:marc905: 20241021033441bertrana
+pgterms:marc906: '1923'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bEditorial Catalana, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: El meu amic Pellini i altres contes
+url: http://www.gutenberg.org/ebooks/74649
